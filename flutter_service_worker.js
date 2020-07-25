@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "b1eb6dc79c9bcfb75e43da3653f2ee6a",
 "/": "b1eb6dc79c9bcfb75e43da3653f2ee6a",
-"main.dart.js": "296bdf829246146b84ef8ded84b9f7ea",
+"main.dart.js": "dd9e6039b26640be3aaba04950581d6c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -22,7 +22,7 @@ const RESOURCES = {
 "assets/images/Mockups/Aberto_bayofislands.jpg": "cf7b6db8e68d160a20b44e5ba28fc565",
 "assets/images/Mockups/Capa.jpg": "d474e24b07da263e65672af0ef1152e9",
 "assets/images/fav.png": "e3a1f27b45c0a76634e18d40ca5dd36c",
-"assets/AssetManifest.json": "8784789d7b32e6cb135d81a0b15ba4ca",
+"assets/AssetManifest.json": "e5c4960edd4e8baba79a55d173b9f4a5",
 "assets/NOTICES": "108d0a1640e6b622b04c79e5a1de9f51",
 "assets/FontManifest.json": "cea94a5d24362297d2164fa77e55e73d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
